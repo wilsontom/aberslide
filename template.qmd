@@ -1,11 +1,6 @@
 ---
 title: "Presentation Title"
-format: 
-  revealjs:
-    theme: autheme.scss
-    footer: "Footer text goes here"
-    logo: /content/au-logo.png
-    menu: false
+format: aberslide-revealjs
 editor: visual
 author:
   - name: "Tom Wilson"
@@ -16,5 +11,4 @@ author:
       - name: Department of Life Sciences, Aberystwyth University
         city: Aberystwyth, Wales
         url: www.aber.ac.uk
-
 ---
