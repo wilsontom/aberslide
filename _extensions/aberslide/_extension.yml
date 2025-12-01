@@ -1,5 +1,5 @@
-title: Aberslide
-author: Thomas Wilson [tpw2] (Staff)
+title: aberslide
+author: Thomas Wilson
 version: 1.0.0
 quarto-required: ">=1.8.0"
 contributes:
