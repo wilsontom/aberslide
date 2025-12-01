@@ -1,0 +1,4 @@
+project:
+  title: "Customisable Aberystwyth University Quarto Theme"
+  type: website
+  output-dir: docs%
